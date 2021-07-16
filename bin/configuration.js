@@ -10,11 +10,6 @@ const configuration = {
     host: 'localhost',
     port: 27017,
     name: 'mydatabase'
-  },
-  boxenOptions: {             // If this is a console app using boxen.
-    borderColor: 'gray',
-    borderStyle: 'round',
-    padding: 1
   }
 }
 
