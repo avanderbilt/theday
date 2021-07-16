@@ -1,0 +1,17 @@
+{
+  "line": "rainbow",
+  "ids": {
+    "github": "avanderbilt/project_name"
+  },
+  "logo": {
+    "src": "",
+    "width": "300"
+  },
+  "documentationConfig": {
+    "format": "md",
+    "debug": false,
+    "markdown": {
+      "titleLevel": 3
+    }
+  }
+}
