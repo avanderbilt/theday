@@ -4,10 +4,9 @@
   <sub><sub>
 </p>
 
-![](./theday.png)
+![](theday.png)
 
-<br />
-
+This is pretty much just a wrapper for SunCalc that outputs the stuff I want to see.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#table-of-contents)
 
