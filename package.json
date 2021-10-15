@@ -1,7 +1,7 @@
 {
-  "name": "node_template",
+  "name": "theday",
   "version": "1.0.0",
-  "description": "This is my node.js template project.",
+  "description": "Output useful sun and moon information.",
   "main": "bin/index.js",
   "scripts": {
     "go": "nodemon .",
@@ -14,14 +14,16 @@
   "author": "Arthur Vanderbilt",
   "license": "GPL-3.0",
   "dependencies": {
-    "chalk": "^4.1.1"
+    "chalk": "^4.1.1",
+    "moment": "^2.29.1",
+    "suncalc": "^1.8.0"
   },
   "devDependencies": {
     "@appnest/readme": "^1.2.7",
     "jest": "^27.0.6",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.13"
   },
   "bin": {
-    "kitties": "./bin/index.js"
+    "theday": "./bin/index.js"
   }
 }
