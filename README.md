@@ -4,7 +4,7 @@
   <sub><sub>
 </p>
 
-![theday.png]
+![./theday.png]
 
 <br />
 
